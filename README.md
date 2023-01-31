@@ -35,7 +35,7 @@ def selection_sort(nums):
 
 list_of_nums=eval(input())
 selection_sort(list_of_nums)
-print(list_of_nums)u
+print(list_of_nums)
 ```
 ## Output:
 ![](/Selection%20Sort.png)
